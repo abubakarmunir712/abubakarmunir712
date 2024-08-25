@@ -24,8 +24,8 @@ Welcome to my GitHub profile. I'm a passionate web developer dedicated to creati
 ## 🌐 Connect with Me
 
 - 📧 **Email**: [abubakarmunir712@gmail.com](mailto:abubakarmunir712@gmail.com)
-- 🌐 **Portfolio**: [Your Portfolio](https://your-portfolio-link.com)
-- 💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/abubakar-munir)
+- 🌐 **Portfolio**: [Working on it](https://google.com)
+- 💼 **LinkedIn**: [abubakar-munir](https://www.linkedin.com/in/abubakar-munir)
 
 ## 📈 Current Projects
 
