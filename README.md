@@ -29,7 +29,7 @@ Welcome to my GitHub profile. I'm a passionate web developer dedicated to creati
 
 ## 📈 Current Projects
 
-- **[Project Name](https://github.com/yourusername/project-name)**: A brief description of what you’re working on and the technologies involved.
+- 
 
 ## 🎯 What I'm Working On
 
