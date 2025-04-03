@@ -6,8 +6,8 @@ Welcome to my GitHub profile. I'm a passionate web developer dedicated to creati
 
 ### 🌐 **Web Development**
 - **HTML5**: Crafting responsive and semantic web pages.
-- **CSS3**: Styling with modern techniques for an engaging user experience.
-- **JavaScript (ES6+)**: Building interactive and dynamic web applications.
+- **CSS3/Tailwind CSS**: Styling with modern techniques for an engaging user experience.
+- **JavaScript (ES6+)/TypeScript**: Building interactive and dynamic web applications.
 - **React**: Developing efficient and component-based user interfaces.
 - **Next.js**: Creating server-side rendered and static web applications.
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile. I'm a passionate web developer dedicated to creati
 
 ## 🎯 What I'm Working On
 
-- 🌱 Learning Typescript && Tailwind.
+- 🌱 Learning low level programming in Rust && C.
 
 ## 🌟 Highlights
 
