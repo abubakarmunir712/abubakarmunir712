@@ -13,6 +13,7 @@ Welcome to my GitHub profile. I'm a passionate web developer dedicated to creati
 
 ### 🛠️ **Backend Development**
 - **Node.js**: Building server-side logic and APIs.
+- **Rust**: Building high-performance and memory-safe systems.
 - **MongoDB**: Working with NoSQL databases for scalable data management.
 - **SQL**: Managing relational databases with SQL for structured data.
 
@@ -29,11 +30,11 @@ Welcome to my GitHub profile. I'm a passionate web developer dedicated to creati
 
 ## 📈 Current Projects
 
-- 
+- **Nest & React Template**: A comprehensive template with prebuilt common modules for rapid development.
 
 ## 🎯 What I'm Working On
 
-- 🌱 Learning low level programming in Rust && C.
+- 🌱 Learning low level programming in C.
 
 ## 🌟 Highlights
 
