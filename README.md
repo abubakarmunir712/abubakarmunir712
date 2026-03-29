@@ -13,6 +13,7 @@ Welcome to my GitHub profile. I'm a passionate web developer dedicated to creati
 
 ### 🛠️ **Backend Development**
 - **Node.js**: Building server-side logic and APIs.
+- **Nestjs**: Building scalable and maintainable backend applications and APIs.
 - **Rust**: Building high-performance and memory-safe systems.
 - **MongoDB**: Working with NoSQL databases for scalable data management.
 - **SQL**: Managing relational databases with SQL for structured data.
