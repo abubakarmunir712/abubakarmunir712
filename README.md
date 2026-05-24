@@ -1,45 +1,61 @@
 # Oh, hi. 👋
 
-Welcome to my corner of GitHub. I’m a "passionate" web developer, which is just code for "I spend way too much time staring at documentation." I build web applications (some of them even work as intended). Here’s the technical stuff I pretend to be an expert in:
+Welcome to my GitHub. I'm a "passionate" web developer. Basically that means I have too many browser tabs open and a deep emotional attachment to Stack Overflow answers from 2014.
 
-## 🚀 The Tech Stack (My Personality Defects)
+I build web apps. Some of them work. Some of them *almost* work. The rest are learning experiences I don't talk about.
 
-### 🌐 **Frontend Stuff**
-*   **HTML5 & CSS3/Tailwind**: Making things look pretty because the user interface is definitely the most important part, right?
-*   **JavaScript/TypeScript**: I speak fluent "Why is this undefined?" and "How did that pass type checking?"
-*   **React & Next.js**: Because apparently, we need a new framework every week to keep life interesting.
+## 🚀 My Tech Stack (aka My Collection of Trust Issues)
 
-### 🛠️ **Backend (Where I hide my bugs)**
-*   **Node.js & NestJS**: Building APIs so robust they might actually survive a user interaction.
-*   **Rust**: Because I enjoy fighting with the borrow checker just to feel something.
-*   **Python**: For when I need to get things done quickly.
-*   **MongoDB & SQL**: I organize data into tables or blobs and pray I remember how to query it later.
+### 🌐 Frontend (The Pretty Part)
 
-### 🔧 **DevOps & Tools**
-*   **Docker**: "But it works on my machine!" now comes with containerization.
-*   **AWS**: Helping Jeff Bezos buy his next yacht, one server instance at a time.
-*   **Git**: A history of my failures, documented one commit at a time.
+- **HTML5 & CSS3 / Tailwind** Making things look nice. Sometimes I even do it without googling "how to center a div" (sometimes).
 
-## 🌐 How to Bother Me
+- **JavaScript / TypeScript** Fluent in `undefined is not a function` and `why does this work now??`. TypeScript makes me feel safe but still betrays me at the worst moments.
 
-*   📧 **Email**: [abubakarmunir712@gmail.com](mailto:abubakarmunir712@gmail.com) — I might check it eventually.
-*   🌐 **Portfolio**: [Still "working on it"](https://google.com) — Please don't ask about it (Good things take time 😉).
-*   💼 **LinkedIn**: [abubakar-munir](https://www.linkedin.com/in/abubakar-munir) — Send me an invite if you want to see me share corporate fluff.
+- **React & Next.js** I have accepted that there will always be a new framework. I am at peace. I am lying.
 
-## 📈 Current "Masterpieces"
+### 🛠️ Backend (Where I Bury the Bodies)
 
-*   **Nest & React Template**: A boilerplate I am building so I wouldn't have to write the same code three times. You're welcome.
+- **Node.js & NestJS** Writing APIs that survive actual users is harder than it sounds. Mine mostly do.
+
+- **Rust** I use it to feel pain in a different language. The borrow checker and I have a complicated relationship.
+
+- **Python** For when I need something done before I lose my mind.
+
+- **MongoDB & SQL** I write optimized queries, as long as the ORM does it for me 😁
+
+### 🔧 DevOps & Tools (The "Professional" Part)
+
+- **Docker** "Works on my machine" now has a zip file you can send to people. Peak civilization.
+
+- **AWS** Fully capable of deploying to the cloud. Fully incapable of remembering to turn things off. AWS loves me for this.
+
+- **Git** A full historical record of my bad decisions, complete with commit messages like "fix" and "ok this time for real".
+
+## 📬 How to Reach Me (I Will Respond Eventually)
+
+- 📧 **Email** [abubakarmunir712@gmail.com](mailto:abubakarmunir712@gmail.com) I check it. Not always on purpose.
+
+- 🌐 **Portfolio** [Still "in progress"](https://google.com) Good things take time. Please don't ask. PLEASE.
+
+- 💼 **LinkedIn** [abubakar-munir](https://www.linkedin.com/in/abubakar-munir) Come watch me react to posts with a 👍 and pretend I'm networking.
+
+## 📈 Current Projects (My Masterpieces)
+
+- **NestJS + React Boilerplate** Tired of setting up the same stuff for every project. Building a template so future-me suffers less. You're welcome, future-me.
 
 ## 🎯 Currently Suffering Through
 
-*   🌱 **Learning C**: Because I clearly haven't suffered enough with high-level languages.
+- 🌱 **Learning C** I already deal with memory leaks in my personal life, figured I'd add professional ones too.
 
-## 🌟 Why You Should Care
+## 🌟 Why You Should Care (No Pressure Though)
 
-*   **"Passionate" Learner**: I Google things professionally.
-*   **Creative Problem Solver**: I break things, then spend hours fixing them.
-*   **Team Player**: I promise not to force my coding standards on you... usually.
+- **"Passionate" Learner** I google things very confidently.
+
+- **Creative Problem Solver** I break things, fix them, then accidentally break them again.
+
+- **Team Player** I will absolutely not force my code style on you. Probably.
 
 ---
 
-Feel free to browse my repos. I’m always open to new projects, especially if they pay well and don't involve fixing someone else's legacy spaghetti code.
+Feel free to look around the repos. Open to new projects, especially paid ones that don't start with "it's just a small change" or "the previous dev left no documentation lol."
